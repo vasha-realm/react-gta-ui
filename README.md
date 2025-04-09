@@ -1,2 +1,2 @@
 # hud
-![hud](./public/hud.png)
+![hud](./public/hud.webp)
