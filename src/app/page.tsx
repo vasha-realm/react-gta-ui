@@ -21,9 +21,8 @@ export default function Home() {
 
       <VehiclePanel
         classNames="
-          absolute w-[32rem] aspect-square
-          left-1/2 -translate-x-1/2
-          top-1/2 -translate-y-1/2
+          absolute w-[16rem] aspect-square
+          bottom-[2rem] right-[2rem]
         "
       />
 
